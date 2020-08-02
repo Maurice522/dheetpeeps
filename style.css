@@ -1,0 +1,42 @@
+body.body{
+  text-align: center;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  color: white;
+}
+
+footer{
+  padding: 30px 10px;
+  background-color: black;
+  color: white;
+  font-family: 'Poiret One', cursive;
+  font-weight: bold;
+}
+
+.top{
+  background-color: black;
+
+  padding: 25px;
+}
+
+div.mid, div.mid2{
+  text-align: center;
+}
+
+img{
+  margin: 10px;
+  padding: 10px;
+  width: 380px;
+}
+
+div.carousel-inner{
+  background-color: grey;
+}
+
+div.carousel-item{
+  padding: 30px;
+  margin: 10px;
+
+}
