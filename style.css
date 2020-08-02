@@ -28,11 +28,11 @@ div.mid, div.mid2{
 img{
   margin: 10px;
   padding: 10px;
-  width: 380px;
+  width: 720px;
 }
 
 div.carousel-inner{
-  background-color: grey;
+  background-color: black;
 }
 
 div.carousel-item{
