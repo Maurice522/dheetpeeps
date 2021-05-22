@@ -1,2 +1,2 @@
 # dheetpeeps
-www.dheetpeeps.ml
+http://dheetpeeps.ml/
